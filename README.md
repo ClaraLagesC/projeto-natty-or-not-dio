@@ -12,7 +12,7 @@
 
 
 ## 🚀 Resultados
-- # [Imagem do ebook pronto:](
+- # [Imagem do ebook pronto:](documentos/Capa%20de%20Livro%20de%20Ebook%20IA.pdf)
 
   
 - # Conteúdp do Ebook: Inteligência Artificial no Bolso
